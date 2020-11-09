@@ -1,0 +1,75 @@
+.menu{
+  text-align: left;
+
+  margin-left: 27px;
+  margin-top: 18px;
+
+}
+.yanhaberler{
+  margin-top: 13px;
+}
+
+.menuh3{
+  margin-top: 13px;
+}
+li{
+  float: left;
+  padding-left: 16px;
+  list-style-type:none;
+}
+.logo{
+  width: 117px;
+margin-left: 160px;
+margin-top: 17px;
+}
+.ekstra{
+  width: 110px;
+  margin-top: 14px;
+}
+.sondakika,p {
+  background-color: red;
+  color: white;
+  margin-top: 13px
+
+}
+
+.indirim{
+  margin-top: 15px;
+  height: 250px;
+  width: 940px;
+}
+
+.piyango{
+  width: 800px;
+  margin-top: 13px;
+}
+.sliderhaber {
+  margin-top: 13px;
+}
+.reklam{
+  width: 728px;
+  
+        margin-top: 13px !important;
+}
+
+.haberler{
+
+  margin-top: 13px;
+}
+
+.sondak{background: #ee1c25;color: #fff;font-size: 12px;font-family:monospace;line-height: 1;letter-spacing: .1px;padding: 4px 6px;position: absolute;right: 128px;top: 105px;z-index: 100;}
+
+.news-title {
+    display: -webkit-box;
+    font-family:inherit;
+    font-size: 20px;
+    height: 48px;
+    -webkit-line-clamp: 2;
+    line-height: 24px;
+    margin-top: 14px;
+    max-height: 48px;
+    min-height: inherit;
+    padding: 0 12px 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
